@@ -15,7 +15,7 @@ The primary aim of this project is to develop a machine learning model that accu
 ## Requirements
 ### Hard ware requirements:
 ```
-●	Processor	      :Multi-core CPU (Intel i5/i7 or AMD Ryzen 5/7)
+●	Processor	:Multi-core CPU (Intel i5/i7 or AMD Ryzen 5/7)
 ●	Storage         : SSD (at least 256 GB)
 ●	GPU             : Optional (NVIDIA GTX 1660 or RTX 2060 for deep learning)
 ●	RAM             : Minimum 8 GB (16 GB preferred)
